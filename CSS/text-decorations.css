@@ -1,0 +1,22 @@
+.decoration {
+  /* border: solid 3px red; */
+  /* border: dashed 3px red; */
+  /* border:double 5px red; */
+  border-top: solid 3px blue;
+  border-bottom : dotted 5px yellow;
+  border-left: dashed 5px magenta;
+  text-shadow: 1px 3px 3px gray;
+  text-align:right;
+  /* background-color:purple; */
+  /* letter-spacing: 1.5em; */
+  /* text-decoration: line-through; */
+  /* line-height: 4.5;  */
+  /* text-decoration: underline; */
+  /* font-size: 48px; */
+  /* font-family:"游ゴシック体", "YuGothic","游ゴシック","Yu Gothic";  */
+  /* font-style: italic; */
+  /* font-weight: bold; */
+  /* color: #ff0000; */
+  /* color: rgb(255,0,0) */
+  
+}
