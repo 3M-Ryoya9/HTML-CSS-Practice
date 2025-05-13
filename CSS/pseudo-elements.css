@@ -6,7 +6,6 @@ h1::after {
   content: "■";
   color: pink;
 }
-<<<<<<< HEAD
 p::first-letter { 
   font-size: 24px;
   font-weight: bold;
@@ -14,15 +13,6 @@ p::first-letter {
 }
 p::first-line {
   font-size: 24px;
-=======
-/* p::first-letter { 
-  font-size: 24px;
   font-weight: bold;
-  color: green;
-}*/
-p::first-line {
-  font-size: 24px;
-  font-weight: bold;
->>>>>>> 024dbb08597de7e2a6a1d596eff822a03f67f0c5
   color: lightblue;
 }
