@@ -39,3 +39,31 @@ header {
   position: relative;
   height: 400px;
 }
+#main-message {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color:#2710d5;
+  color:#ffffff;
+  border-bottom-right-radius: 476px;
+  max-width: 620px;
+  width: 100%;
+  height: 100%;
+  z-index: 11;
+}
+#main-message > h1 {
+  font-size: 60px;
+  margin: 100px 0 0 50px;
+}
+#main-message > p {
+  font-size: 28px;
+  margin: 0 0 0 50px;
+}
+#main-visual > img {
+  max-width: 620px;
+  border-top-left-radius: 476px;
+  position:absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
+}
